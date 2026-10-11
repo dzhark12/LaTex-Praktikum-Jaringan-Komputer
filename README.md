@@ -6,7 +6,7 @@ Template ini dibuat semirip mungkin dengan berkas resmi `Template Laporan Prakti
 
 ## Tujuan Fork
 
-Struktur repo ini disederhanakan agar lebih praktis digunakan. Isi laporan, termasuk langkah-langkah dokumentasi, digabung dalam satu `template.tex`, jadi pengguna tidak perlu membuat file baru setiap kali menambah langkah. Folder gambar sudah disediakan untuk menyimpan aset laporan. Data utama dan daftar referensi juga mudah disesuaikan untuk setiap laporan. Dengan struktur ini, satu salinan repo dapat digunakan kembali untuk mengerjakan laporan berikutnya tanpa perlu meng-clone repo berulang kali.
+Template ini merupakan fork dari [ANAK-AMBIS/LaTex-Praktikum-Jaringan-Komputer](https://github.com/ANAK-AMBIS/LaTex-Praktikum-Jaringan-Komputer). Struktur repo ini disederhanakan agar lebih praktis digunakan. Isi laporan, termasuk langkah-langkah dokumentasi, digabung dalam satu `template.tex`, jadi pengguna tidak perlu membuat file baru setiap kali menambah langkah. Folder gambar sudah disediakan untuk menyimpan aset laporan. Data utama dan daftar referensi juga mudah disesuaikan untuk setiap laporan. Dengan struktur ini, satu salinan repo dapat digunakan kembali untuk mengerjakan laporan berikutnya tanpa perlu meng-clone repo berulang kali. 
 
 ## Daftar Isi
 
